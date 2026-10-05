@@ -652,32 +652,35 @@ These improvements would remain within an authorized and defensive cybersecurity
 
 ## Executive Dashboard
 
-![Executive Dashboard](screenshots/01_executive_dashboard.png)
+![Executive Dashboard](./screenshots/screenshot1.png)
 
 ## Threat Intelligence
 
-![Threat Intelligence](screenshots/02_threat_intelligence.png)
+![Threat Intelligence](./screenshots/screenshot2.png)
 
 ## IOC Analyzer
 
-![IOC Analyzer](screenshots/03_ioc_analyzer.png)
+![IOC Analyzer](./screenshots/screenshot3.png)
 
 ## Vulnerability Awareness
 
-![Vulnerability Awareness](screenshots/04_vulnerability_awareness.png)
+![Vulnerability Awareness](./screenshots/screenshot4.png)
 
 ## SOC Investigation
 
-![SOC Investigation](screenshots/05_soc_investigation.png)
+![SOC Investigation](./screenshots/screenshot5.png)
 
 ## Awareness Center
 
-![Awareness Center](screenshots/06_awareness_center.png)
+![Awareness Center](./screenshots/screenshot6.png)
 
 ## Awareness Quiz
 
-![Awareness Quiz](screenshots/07_awareness_quiz.png)
+![Awareness Quiz](./screenshots/screenshot7.png)
 
+## Additional Dashboard View
+
+![Additional Dashboard View](./screenshots/screenshot8.png)
 ---
 
 # 🎓 Learning Outcomes
